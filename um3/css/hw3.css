@@ -1,0 +1,23 @@
+body {
+    background-color: #DDDDDD;
+    font-family: "Open Sans", sans-serif;
+  }
+  h1 {
+    text-align: center;
+  }
+  .tagline {
+    text-align: center;
+    color: blue;
+  }
+  table {
+    border-collapse: collapse;
+  }
+  table, th, td {
+    border: 1px solid black;
+  }
+  th {
+    background-color: #F8FF75;
+  }
+  li a {
+    color: blue;
+  }

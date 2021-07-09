@@ -1,0 +1,42 @@
+#title {
+  font-size: 2.5em;
+}
+
+#menu-bar {
+  background-color: #958875;
+}
+
+#tall-section {
+  height: 1000px;
+  width: 100%;
+  background-color: blue;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: red;
+}
+
+main section {
+  margin: 20px;
+}
+
+main section p{
+  padding: 0px 5px 10px 5px;
+}
+
+#nav-items li {
+  text-align: center;
+  border-bottom: 1px solid #c8c1c8;
+}
+
+#chicken {
+  background-color: #c8c1b7;
+}
+
+#beefe {
+  background-color: #c8c1b7;
+}
+
+#sushi {
+  background-color: #c8c1b7;
+}
